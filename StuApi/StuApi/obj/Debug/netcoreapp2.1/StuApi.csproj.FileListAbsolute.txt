@@ -1,0 +1,15 @@
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/bin/Debug/netcoreapp2.1/databasefile.csv
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/bin/Debug/netcoreapp2.1/StuApi.deps.json
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/bin/Debug/netcoreapp2.1/StuApi.runtimeconfig.json
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/bin/Debug/netcoreapp2.1/StuApi.runtimeconfig.dev.json
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/bin/Debug/netcoreapp2.1/StuApi.dll
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/bin/Debug/netcoreapp2.1/StuApi.pdb
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.csprojAssemblyReference.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.csproj.CoreCompileInputs.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.RazorAssemblyInfo.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.RazorAssemblyInfo.cs
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.AssemblyInfoInputs.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.AssemblyInfo.cs
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.RazorTargetAssemblyInfo.cache
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.dll
+/Users/DeeDee/Programming/Visual Studio Projects/StuApi/StuApi/obj/Debug/netcoreapp2.1/StuApi.pdb
